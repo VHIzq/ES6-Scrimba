@@ -12,7 +12,6 @@ console.log(player.address.city);
 const {fullName, club, address: {city}} = player;
 //console.log(`${fullName} plays for ${club}`)
 console.log(`${fullName} lives in ${city}`);
-
 /*
     **** Challenge ****
     
